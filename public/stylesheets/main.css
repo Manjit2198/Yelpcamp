@@ -1,0 +1,32 @@
+.img-thumbnail img{
+   width: 100%;
+   height: 350px;
+}
+#show-img{
+   height: 450px;
+}
+.img-thumbnail{
+    padding: 0px;
+}
+
+.img-thumbnail .caption-full{
+    padding: 9px;
+}
+.container{
+    margin: 6px auto;
+}
+#comment{
+    margin: 1rem;
+}
+#leave-review{
+    margin: 1rem;
+}
+#edit-form{
+    display: inline;
+}
+#delete-form{
+    display: inline;
+}
+#main{
+    text-align: center;
+}
